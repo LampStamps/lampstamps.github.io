@@ -1,4 +1,3 @@
-# lampstamp.github.io
 [%SET [@page_type@]='home'/%]
 [%site_value id:'footer_javascript'%]
 	<script type="text/javascript">
